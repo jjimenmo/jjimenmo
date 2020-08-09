@@ -4,7 +4,7 @@
 
 It is such an honor your visit. 
 
-I am an Economist focusing being introduced (by my self) to Web Development World. 
+I am an Economist being introduced (by my self) to Web Development World. 
 
 I am currently studying Object Oriented Programming and Web Development in Platzi. :green_heart:
 
