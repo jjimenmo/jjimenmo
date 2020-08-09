@@ -12,7 +12,7 @@ You can ask me about Economics and Data Science applied to Economics. In Economi
 
 Do not hesitate to reach me:
 
-twitter: jjimenmo
+twitter: https://twitter.com/jjimenmo
 email: jairostivenjimenezmontoya@gmail.com
 
 <!--
