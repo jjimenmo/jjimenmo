@@ -4,9 +4,9 @@
 
 It is such an honor your visit. 
 
-I am an Economist foucsing on Data science and focusing right now on web scraping. 
+I am an Economist focusing being introduced (by my self) to Web Development World. 
 
-I am currently studying Object Oriented Programming and Data science in Platzi. :green_heart:
+I am currently studying Object Oriented Programming and Web Development in Platzi. :green_heart:
 
 You can ask me about Economics and Data Science applied to Economics. In Economics I usually work on International Economics and Applied Microeconomics projects.
 
