@@ -4,11 +4,10 @@
 
 It is such an honor your visit. 
 
-I am an Economist being introduced (by my self) to Web Development World. 
+I am an Economist interested in microeconometric analysis and data science tools applied to economic questions. 
 
-I am currently studying Object Oriented Programming and Web Development in Platzi. :green_heart:
 
-You can ask me about Economics and Data Science applied to Economics. In Economics I usually work on International Economics and Applied Microeconomics projects.
+You can ask me about Economics and Data Science applied to Economics. In Economics I usually work on Applied Microeconomics projects.
 
 Do not hesitate to reach me:
 
